@@ -14,3 +14,5 @@ Os tipos de testes são:
 * teste de carga;
 * teste em perfil de desempenho;
 * teste de configuração e teste de instalação;
+
+Nome: Cesar Alves Vicente RA: 1800368
